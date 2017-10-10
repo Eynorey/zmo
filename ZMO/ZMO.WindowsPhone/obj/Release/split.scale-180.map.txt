@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\split.scale-180.pri"			"resources.pri"
+"C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\PackageLayout\Assets\SplashScreen.scale-180.png"			"Assets\SplashScreen.scale-180.png"

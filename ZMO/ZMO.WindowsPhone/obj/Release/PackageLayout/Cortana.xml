@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="de-de" Name="commandSet_de-de">
+    <CommandPrefix> neue Zensur </CommandPrefix>
+    <Example> Trage 14 Punkte in Mathematik als Test ein. </Example>
+
+    <Command Name="zensurNeuCortana">
+      <Example> Füge in Mitarbeit 13 Punkte im Fach Deutsch hinzu. </Example>
+      <ListenFor>[trage] [füge] {zensur} [als] [in] [für] [einen] [eine] {art} [im] [fach] [in] {fach} [ein] [hinzu] [hinzufügen] [eintragen]</ListenFor>
+      <ListenFor>[trage] [füge] {zensur} [im] [fach] [in] {fach} [als] [in] [für] [einen] [eine] {art} [ein] [hinzu] [hinzufügen] [eintragen]</ListenFor>
+      <ListenFor>[trage] [füge] [im] [fach] [in] {fach} {zensur} [als] [in] [für] [einen] [eine] {art} [ein] [hinzu] [eintragen] [hinzufügen]</ListenFor>
+      <ListenFor>[trage] [füge] [im] [fach] [in] {fach} [als] [in] [für] [einen] [eine] {art} {zensur} [ein] [hinzu] [eintragen] [hinzufügen]</ListenFor>
+      <ListenFor>[trage] [füge] [als] [in] [für] [einen] [eine] {art} {zensur} [im] [fach] [in] {fach} [ein] [hinzu] [eintragen] [hinzufügen]</ListenFor>
+      <ListenFor>[trage] [füge] [als] [in] [für] [einen] [eine] {art} [im] [fach] [in] {fach} {zensur} [ein] [hinzu] [eintragen] [hinzufügen]</ListenFor>
+      <Feedback>Verstanden! Ich trage {zensur} im Fach {fach} als {art} ein.</Feedback>
+      <Navigate Target="MainPage.xaml"/>
+    </Command>
+
+    <PhraseList Label="art">
+      <Item>Test</Item>
+      <Item>Kontrolle</Item>
+      <Item>Leistungskontrolle</Item>
+      <Item>Stundenaufgabe</Item>
+      <Item>Unterrichtsaufgabe</Item>
+      <Item>Hausaufgabe</Item>
+      <Item>Mitarbeit</Item>
+      <Item>Mitarbeitsnote</Item>
+      <Item>Mitarbeitszensur</Item>
+      <Item>mündlich</Item>
+      <Item>mündliche Note</Item>
+      <Item>sonstige Note</Item>
+      <Item>sonstige Zensur</Item>
+      <Item>sonstiges</Item>
+      <Item>andere Note</Item>
+      <Item>andere Zensur</Item>
+      <Item>anderes</Item>
+      <Item>Klausur</Item>
+      <Item>Klausurnote</Item>
+      <Item>Leistungsnachweis</Item>
+      <Item>Leistungsfeststellung</Item>
+    </PhraseList>
+
+    <PhraseList Label="zensur">
+      <Item>0 Punkte</Item>
+      <Item>1 Punkt</Item>
+      <Item>2 Punkte</Item>
+      <Item>3 Punkte</Item>
+      <Item>4 Punkte</Item>
+      <Item>5 Punkte</Item>
+      <Item>6 Punkte</Item>
+      <Item>7 Punkte</Item>
+      <Item>8 Punkte</Item>
+      <Item>9 Punkte</Item>
+      <Item>10 Punkte</Item>
+      <Item>11 Punkte</Item>
+      <Item>12 Punkte</Item>
+      <Item>13 Punkte</Item>
+      <Item>14 Punkte</Item>
+      <Item>15 Punkte</Item>
+      <Item>ein Punkt</Item>
+      <Item>einen Punkt</Item>
+    </PhraseList>
+
+    <PhraseList Label="fach">
+    </PhraseList>
+  
+  </CommandSet>
+
+  <!-- Other CommandSets for other languages -->
+
+</VoiceCommands>

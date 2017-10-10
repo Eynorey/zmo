@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-072Q6JVVVF4</Machine>
+    <WindowsUser>Adrian Riedel</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>907Eynorey.ZensurenManagerOberstufe</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D6E9D160143701375D7709AAD605F912AC35D986BEBB953AC0FEE0F0B521547C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>907Eynorey.ZensurenManagerOberstufe_2.9.1.0_neutral__fdj9cw5ps37wa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>907Eynorey.ZensurenManagerOberstufe_fdj9cw5ps37wa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>907Eynorey.ZensurenManagerOberstufe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=EAED75AD-A6DA-4FBD-B658-5574A71883AC</RegisteredPackagePublisher>
+    <RegisteredVersion>2.9.1.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-14T15:47:33.915</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows.exe">
+      <PackagePath>ZMO.Windows.exe</PackagePath>
+      <Modified>2015-04-14T15:47:30.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T10:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T10:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T10:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T10:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T10:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T10:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\large-live.png">
+      <PackagePath>Assets\large-live.png</PackagePath>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\eynorey.png">
+      <PackagePath>Assets\eynorey.png</PackagePath>
+      <Modified>2014-07-06T09:17:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\santa_medium.png">
+      <PackagePath>Assets\santa_medium.png</PackagePath>
+      <Modified>2014-12-14T15:55:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\small-live.png">
+      <PackagePath>Assets\small-live.png</PackagePath>
+      <Modified>2014-07-03T12:12:29.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T16:29:35.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T16:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T16:28:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <Modified>2014-06-02T20:00:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2014-06-02T20:00:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\wide-live.png">
+      <PackagePath>Assets\wide-live.png</PackagePath>
+      <Modified>2014-07-03T12:06:55.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T11:42:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-05-24T13:51:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-12T19:33:49.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\abischnitt.xbf">
+      <PackagePath>abischnitt.xbf</PackagePath>
+      <Modified>2015-04-14T15:47:30.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-14T15:47:30.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\Settings.xbf">
+      <PackagePath>Settings.xbf</PackagePath>
+      <Modified>2015-04-12T19:33:49.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\zensuren.xbf">
+      <PackagePath>zensuren.xbf</PackagePath>
+      <Modified>2015-04-12T19:33:49.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows.xr.xml">
+      <PackagePath>ZMO.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-14T15:47:30.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-14T15:47:31.086</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

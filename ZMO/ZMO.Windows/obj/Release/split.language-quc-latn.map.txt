@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-quc-latn"
+"ResourceDimensions"		"language-qut-gt"
+
+[Files]
+"C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Release\split.language-quc-latn.pri"			"resources.pri"

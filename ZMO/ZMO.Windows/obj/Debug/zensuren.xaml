@@ -1,0 +1,229 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="ZMO.zensuren"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ZMO"
+    xmlns:common="using:ZMO.Common"
+    xmlns:UI="using:Microsoft.Advertising.WinRT.UI" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+        <Grid Background="#FF0F0F0F">
+
+            <Grid.ChildrenTransitions>
+                <TransitionCollection>
+                    <EntranceThemeTransition/>
+                </TransitionCollection>
+            </Grid.ChildrenTransitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="120"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="15"/>
+            </Grid.RowDefinitions>
+
+        <Rectangle Fill="Black"/>
+
+            <!-- Back button and page title -->
+        <Rectangle Grid.Row="1" Fill="{StaticResource Foreground}"/>
+        <Rectangle Fill="{StaticResource Foreground}" Opacity="0.6" Grid.Row="1" Grid.ColumnSpan="2" Margin="0,-5,0,0" />
+
+        <Rectangle Grid.Row="3" Fill="{StaticResource Foreground}"/>
+        <Rectangle Grid.Row="3" Fill="{StaticResource Foreground}" Opacity="0.6" Margin="0,0,0,-5"/>
+
+
+        <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="110"/>
+                </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" VerticalAlignment="Center" HorizontalAlignment="Center" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+            
+            <StackPanel Orientation="Horizontal" Grid.Column="1" VerticalAlignment="Bottom" Margin="0,0,30,40">
+                <TextBlock x:ConnectionId='9' Style="{StaticResource HeaderTextBlockStyle}" Typography.Capitals="SmallCaps"                                >
+                    <Run x:Name="pageTitle" Text="Detailansicht |"/>
+                    <Run x:Name="semesterCaption" Foreground="{StaticResource Foreground}"/>
+                </TextBlock>
+                <Image x:ConnectionId='10' x:Name="santaHat" Visibility="Collapsed" Source="Assets/santa_medium.png" Height="50" Margin="-20,0,0,-10"                         >
+                    <Image.Projection>
+                        <PlaneProjection RotationZ="-10"/>
+                    </Image.Projection>
+                </Image>
+            </StackPanel>
+
+            <Polygon Fill="{StaticResource Foreground}" Grid.Column="2" Points="60 0   80 0   40 140   0 140 " Margin="30,0,0,0"/>
+            <Polygon Fill="{StaticResource Foreground}" Opacity="0.6" Grid.Column="2" Points="80 0   90 0   30 140   0 140 " />
+
+        </Grid>
+            <ScrollViewer Grid.Row="2" Margin="20,0,20,0" ZoomMode="Disabled" VerticalScrollMode="Disabled" HorizontalScrollMode="Auto" VerticalScrollBarVisibility="Disabled" Height="140">
+                <GridView x:ConnectionId='8' MaxHeight="120" x:Name="fachSelector"                                                  Margin="0,5,0,-10">
+                    <GridView.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Width="220" Height="40" Background="{StaticResource Foreground}" VerticalAlignment="Center">
+                                <TextBlock HorizontalAlignment="Stretch" VerticalAlignment="Center" Style="{StaticResource FontNormalBold}">
+                                    <Run Text="   "/>
+                                    <Run Text="{Binding Name}"/>
+                                </TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </GridView.ItemTemplate>
+                </GridView>
+            </ScrollViewer>
+
+        <ScrollViewer Margin="0,15,0,0" Grid.Row="4" ZoomMode="Disabled" VerticalScrollMode="Auto" HorizontalScrollMode="Disabled">
+            <Grid Grid.Row="4" Margin="0,-15,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+            
+                <Grid Margin="30,20,30,0" x:Name="mainGrid">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="5"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="25"/>
+                    </Grid.RowDefinitions>
+
+                <Rectangle Grid.Row="0" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource Foreground}" Opacity="0.9" Margin="-0,0,0,10" RadiusX="3" RadiusY="3"/>
+                <TextBlock Grid.Row="0" Grid.Column="1" Text="Tests" Margin="0,5,0,0" Style="{StaticResource FontTitle}"/>
+                <TextBlock Grid.Row="0" Grid.Column="2" Style="{StaticResource FontNormal}" x:Name="testDurchschnitt"/>
+                <TextBlock Grid.Row="2" Grid.Column="1" Style="{StaticResource FontSmallThin}" x:Name="testNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                <Rectangle x:ConnectionId='3' x:Name="re1" Grid.Row="0" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10"                       RadiusX="3" RadiusY="3"/>
+
+                <Rectangle Grid.Row="3" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource Foreground}" Opacity="0.9" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                <TextBlock Grid.Row="3" Grid.Column="1" Text="Stunden- und Hausarbeiten" Margin="0,5,0,0" Style="{StaticResource FontTitle}"/>
+                <TextBlock Grid.Row="3" Grid.Column="2" Style="{StaticResource FontNormal}" x:Name="stundenDurchschnitt" FontWeight="Bold"/>
+                <TextBlock Grid.Row="5" Grid.Column="1" Style="{StaticResource FontSmallThin}" x:Name="stundenNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                <Rectangle x:ConnectionId='4' x:Name="re2" Grid.Row="3" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10"                         RadiusX="3" RadiusY="3"/>
+
+                <Rectangle Grid.Row="6" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource Foreground}" Opacity="0.9" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                <TextBlock Grid.Row="6" Grid.Column="1" Text="Mitarbeit" Margin="0,5,0,0" Style="{StaticResource FontTitle}"/>
+                <TextBlock Grid.Row="6" Grid.Column="2" Style="{StaticResource FontNormal}" x:Name="mitarbeitDurchschnitt" FontWeight="Bold"/>
+                <TextBlock Grid.Row="8" Grid.Column="1" Style="{StaticResource FontSmallThin}" x:Name="mitarbeitNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                <Rectangle x:ConnectionId='5' x:Name="re3" Grid.Row="6" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10"                           RadiusX="3" RadiusY="3"/>
+
+                <Rectangle Grid.Row="9" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource Foreground}" Opacity="0.9" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                <TextBlock Grid.Row="9" Grid.Column="1" Text="Sonstige Noten" Margin="0,5,0,0" Style="{StaticResource FontTitle}"/>
+                <TextBlock Grid.Row="9" Grid.Column="2" Style="{StaticResource FontNormal}" x:Name="sonstigeDurchschnitt" FontWeight="Bold"/>
+                <TextBlock Grid.Row="11" Grid.Column="1" Style="{StaticResource FontSmallThin}" x:Name="sonstigeNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                <Rectangle x:ConnectionId='6' x:Name="re4" Grid.Row="9" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10"                          RadiusX="3" RadiusY="3"/>
+
+                <Rectangle Grid.Row="12" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource Foreground}" Opacity="0.9" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                <TextBlock Grid.Row="12" Grid.Column="1" Text="Klausur + Leistungsnachweis" Margin="0,5,0,0" Style="{StaticResource FontTitle}"/>
+                <TextBlock Grid.Row="12" Grid.Column="2" Style="{StaticResource FontNormal}" x:Name="klausurDurchschnitt" FontWeight="Bold"/>
+                <TextBlock Grid.Row="14" Grid.Column="1" Style="{StaticResource FontSmallThin}" x:Name="klausurNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                <Rectangle x:ConnectionId='7' x:Name="re5" Grid.Row="12" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10"                         RadiusX="3" RadiusY="3"/>
+
+
+                <Rectangle Grid.ColumnSpan="2" Grid.Row="1" Fill="White" Grid.Column="1"/>
+                <Rectangle Grid.ColumnSpan="2" Grid.Row="4" Fill="White" Grid.Column="1"/>
+                <Rectangle Grid.ColumnSpan="2" Grid.Row="7" Fill="White" Grid.Column="1"/>
+                <Rectangle Grid.ColumnSpan="2" Grid.Row="10" Fill="White" Grid.Column="1"/>
+                <Rectangle Grid.ColumnSpan="2" Grid.Row="13" Fill="White" Grid.Column="1"/>
+                <Rectangle Grid.ColumnSpan="4" Height="2" Grid.Row="15" Fill="White"/>
+
+                    <StackPanel Grid.Column="1" Grid.Row="16" Orientation="Horizontal">
+                        <TextBlock Grid.Column="1" Grid.Row="16" Style="{StaticResource FontNormalBold}" Text="Gesamtdurchschnitt:" Foreground="{StaticResource Foreground}" Margin="0,0,30,0"/>
+                        <TextBlock Style="{StaticResource FontNormal}">
+                        <Run x:Name="durchschnittGesamtTB" />
+                        <Run Text=" | "/>
+                        <Run x:Name="durchschnittGesamtNoteTB" />
+                        </TextBlock>
+                    </StackPanel>
+            </Grid>
+            
+        </Grid>
+        </ScrollViewer>
+        <Rectangle x:ConnectionId='1' Fill="Black" Grid.Row="5"                          />
+            <SymbolIcon x:ConnectionId='2' Symbol="More" HorizontalAlignment="Right" Grid.Row="5"                           Margin="0 0 60 0"/>
+        </Grid>
+        <FlyoutBase.AttachedFlyout>
+            <Flyout x:ConnectionId='11' x:Name="editFlyout"                           >
+                <StackPanel>
+                    <TextBox x:ConnectionId='12' x:Name="editZensuren" Width="400"                            InputScope="Number" PlaceholderText="Notenpunkte eintragen"/>
+                <TextBlock Foreground="{StaticResource Foreground}" TextWrapping="WrapWholeWords" Style="{StaticResource FontSmallThin}" >
+                    • Noten bearbeiten oder hinzufügen <LineBreak/>
+                    • einzelne Noten mit Komma oder Leerzeichen trennen <LineBreak/>
+                    • anschließend Änderungen speichern
+                    </TextBlock>
+                    <Button x:ConnectionId='13' Content="Änderungen speichern"                      x:Name="editButton"/>
+                </StackPanel>
+            </Flyout>
+        </FlyoutBase.AttachedFlyout>
+
+
+        <Page.BottomAppBar>
+            <CommandBar x:Name="bottomBar" >
+                <AppBarButton x:ConnectionId='14' Icon="Delete" Label="Zensuren löschen" x:Name="deleteButton"                           >
+                    <FlyoutBase.AttachedFlyout>
+                        <Flyout>
+                            <StackPanel>
+                            <TextBlock Foreground="{StaticResource Foreground}" Text="Achtung!" Style="{StaticResource FontTitle}"/>
+                            <TextBlock Style="{StaticResource FontNormal}" TextWrapping="WrapWholeWords" Width="300">
+                                    <Run Text="Alle Zensuren des Fachs"/>
+                                    <Run x:Name="fachName" FontWeight="Bold"/>
+                                    <Run Text="im aktuellen Semester werden gelöscht!"/>
+                            </TextBlock>
+                            <Button x:ConnectionId='15' x:Name="deleteAllZensuren" Content="bestätigen"                                />
+                            </StackPanel>
+                        </Flyout>
+                    </FlyoutBase.AttachedFlyout>
+                </AppBarButton>
+            </CommandBar>
+        </Page.BottomAppBar>
+
+    <Page.TopAppBar>
+        <AppBar Height="140">
+            <StackPanel>
+                <TextBlock Text="Semester auswählen:" FontSize="25" Margin="10"/>
+                <StackPanel Orientation="Horizontal">
+                    <ToggleButton x:ConnectionId='16' x:Name="sem1" Width="70" Height="50"                  >
+                        <FontIcon Glyph="I"/>
+                    </ToggleButton>
+                    <ToggleButton x:ConnectionId='17' x:Name="sem2" Width="70" Height="50"                  >
+                        <FontIcon Glyph="II"/>
+                    </ToggleButton>
+                    <ToggleButton x:ConnectionId='18' x:Name="sem3" Width="70" Height="50"                  >
+                        <FontIcon Glyph="III"/>
+                    </ToggleButton>
+                    <ToggleButton x:ConnectionId='19' x:Name="sem4" Width="70" Height="50"                  >
+                        <FontIcon Glyph="IV"/>
+                    </ToggleButton>
+                </StackPanel>
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+</Page>
+
+

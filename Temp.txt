@@ -1,0 +1,51 @@
+<PivotItem Header="Stundenplan" Margin="10,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="93"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Background="{StaticResource PhoneAccentBrush}">
+                        <TextBlock Margin="5" Text="nächste Stunde:" FontSize="18" Typography.Capitals="SmallCaps"/>
+                        <TextBlock HorizontalAlignment="Center" Text="Deutsch" FontSize="30"/>
+                        <TextBlock Margin="3"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Text="R303 | Zühlke" FontSize="18"/>
+                    </StackPanel>
+                    <Grid Grid.Row="1" Margin="0,10,0,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="40"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Mo" Grid.Row="0" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBlock Text="Di" Grid.Row="1" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBlock Text="Mi" Grid.Row="2" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBlock Text="Do" Grid.Row="3" VerticalAlignment="Center" FontSize="20"/>
+                        <TextBlock Text="Fr" Grid.Row="4" VerticalAlignment="Center" FontSize="20"/>
+
+                        <TextBlock x:Name="debug" Text="Debug" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" FontSize="20"/>
+                        
+                        <ListView Grid.Column="1" Grid.Row="0" x:Name="montag">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Width="85" VerticalAlignment="Stretch" Background="{StaticResource PhoneAccentBrush}">
+                                        <TextBlock x:Name="stunde" HorizontalAlignment="Center" FontSize="15"/>
+                                        <Line Stroke="White" X2="85"/>
+                                        <TextBlock x:Name="kurs" FontSize="20" HorizontalAlignment="Center"/>
+                                        <Line Stroke="White" X2="85"/>
+                                        <TextBlock FontSize="15" HorizontalAlignment="Center">
+                                        <Run x:Name="raum"/>
+                                        <Run Text=" | "/>
+                                        <Run x:Name="lehrer"/>
+                                        </TextBlock>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </Grid>
+                </Grid>                
+            </PivotItem>

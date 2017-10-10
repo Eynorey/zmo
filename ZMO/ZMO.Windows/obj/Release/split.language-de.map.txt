@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-de"
+"ResourceDimensions"		"language-de-de"
+"ResourceDimensions"		"language-de"
+
+[Files]
+"C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Release\split.language-de.pri"			"resources.pri"

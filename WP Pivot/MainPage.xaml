@@ -1,0 +1,201 @@
+﻿<Page
+    x:Class="ZMO.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ZMO"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <CommonNavigationTransitionInfo IsStaggeringEnabled="True"/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Grid>
+        <Pivot x:Uid="Pivot" Title="MY APPLICATION" x:Name="pivot" CommonNavigationTransitionInfo.IsStaggerElement="True" Margin="0,12,0,0">
+            <!--Pivot item one-->
+            <PivotItem
+                x:Uid="PivotItem1"
+                Header="Übersicht"
+                DataContext="{Binding FirstGroup}"
+                d:DataContext="{Binding Groups[0], Source={d:DesignData Source=/DataModel/SampleData.json, Type=data:SampleDataSource}}"
+                CommonNavigationTransitionInfo.IsStaggerElement="True">
+
+                <ScrollViewer
+                    Grid.Row="1"
+                    HorizontalScrollMode="Disabled"
+                    Loaded="SecondPivot_Loaded">
+                    <Grid x:Name="ContentRoot">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <StackPanel Grid.Row="2" x:Name="Übersicht">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Übersicht |" FontSize="25" Margin="5,0,0,10"/>
+                                <TextBlock x:Name="semesterCaption" FontSize="25" Foreground="#FF1BA1E2"  Margin="5,0,0,10" Tapped="semesterCaption_Tapped"/>
+                            </StackPanel>
+                            <Grid Tapped="Grid_Tapped">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="5"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="auto"/>
+                                    <ColumnDefinition Width="5"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                </Grid.RowDefinitions>
+
+                                <Rectangle Grid.ColumnSpan="4" Grid.RowSpan="7" Fill="#261BA1E2"/>
+                                <Rectangle Grid.Row="0" Grid.ColumnSpan="4" Fill="#26FFFFFF"/>
+                                <Rectangle Grid.Row="3" Grid.ColumnSpan="4" Fill="#26FFFFFF"/>
+                                <Rectangle Grid.Row="6" Grid.ColumnSpan="4" Fill="#26FFFFFF"/>
+
+                                <TextBlock Grid.Column="1" Grid.Row="0" Text="mit exakten Endnoten" FontSize="20" ToolTipService.ToolTip="dieser Durchschnitt wird mit den exakten Endnoten (2 Nachkommastellen) der Fächer errechnet."/>
+                                <TextBlock Grid.Column="1" Grid.Row="1" Text="Notenpunkte" FontSize="20" Foreground="#FF1BA1E2" FontWeight="Thin"/>
+                                <TextBlock Grid.Column="1" Grid.Row="2" Text="Zensur" FontSize="20" Foreground="#FF1BA1E2" FontWeight="Thin"/>
+
+                                <TextBlock Grid.Column="1" Grid.Row="3" FontSize="20" Grid.ColumnSpan="2" Text="mit gerundeten Endnoten" ToolTipService.ToolTip="dieser Durchschnitt wird mit den auf- oder abgerundeten Endnoten der Fächer errechnet. (bei ,5 wird aufgerundet)"/>
+                                <TextBlock Grid.Column="1" Grid.Row="4" Text="Notenpunkte" FontSize="20" Foreground="#FF1BA1E2" FontWeight="Thin"/>
+                                <TextBlock Grid.Column="1" Grid.Row="5" Text="Zensur" FontSize="20" Foreground="#FF1BA1E2" FontWeight="Thin"/>
+
+                                <TextBlock Grid.Column="1" Grid.Row="6" Text="Anzahl aller Zensuren:" FontSize="20" FontWeight="Bold"/>
+
+
+                                <TextBlock Grid.Column="2" Grid.Row="1" FontSize="20" x:Name="gesamtPunkte" FontWeight="Thin"/>
+                                <TextBlock Grid.Column="2" Grid.Row="2" FontSize="20" x:Name="gesamtNote" FontWeight="Thin"/>
+
+                                <TextBlock Grid.Column="2" Grid.Row="4" FontSize="20" x:Name="gesamtRundPunkte" FontWeight="Thin"/>
+                                <TextBlock Grid.Column="2" Grid.Row="5" FontSize="20" x:Name="gesamtRundNote" FontWeight="Thin"/>
+
+                                <TextBlock Grid.Column="2" Grid.Row="6" FontSize="20" x:Name="gesamtAnzahl" FontWeight="Bold"/>
+                            </Grid>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="0" x:Name="neue_Zensur">
+                            <TextBlock Text="Neue Zensur" FontSize="25" x:Name="test" Margin="5,0,0,10"/>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                    <RowDefinition Height="auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="5"/>
+                                    <ColumnDefinition Width="auto"/>
+                                    <ColumnDefinition Width="10"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="5"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Rectangle Grid.ColumnSpan="5" Grid.RowSpan="5" Fill="#261BA1E2"/>
+
+                                <TextBlock Grid.Row="0" Grid.Column="1" Text="Zensur" FontSize="20" Foreground="#FF1BA1E2" FontWeight="Thin" Margin="2" VerticalAlignment="Center"/>
+                                <TextBlock Grid.Row="1" Grid.Column="1" Text="Fach" FontSize="20" Foreground="#FF1BA1E2" FontWeight="Thin" Margin="2" VerticalAlignment="Center"/>
+                                <TextBlock Grid.Row="2" Grid.Column="1" Text="Art" FontSize="20" Foreground="#FF1BA1E2" FontWeight="Thin" Margin="2" VerticalAlignment="Center"/>
+
+                                <Slider Grid.Row="0" Grid.Column="3" x:Name="zensurNeuZensur" Maximum="15" Margin="2,-3,2,-15"/>
+
+
+                                <ComboBox Grid.Row="1" Grid.Column="3" x:Name="zensurNeuFach" Margin="2,-5" PlaceholderText="Bitte auswählen" SelectionChanged="zensurNeuFach_SelectionChanged" VerticalAlignment="Center"/>
+                                <ComboBox Grid.Row="2" Grid.Column="3" x:Name="zensurNeuArt" Margin="2,-5" SelectedIndex="-1" PlaceholderText="Bitte auswählen" SelectionChanged="zensurNeuArt_SelectionChanged" VerticalAlignment="Center"/>
+
+                                <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="3" Margin="2" VerticalAlignment="Center">
+                                    <TextBlock Text="{Binding ElementName=zensurNeuZensur, Path=Value}" FontSize="18"/>
+                                    <TextBlock Text=" Notenpunkte" FontSize="18"/>
+                                </StackPanel>
+
+                                <Button Grid.Row="4" Grid.Column="3" Margin="2,-5" Content="Eintragen" x:Name="zensurNeuEintragen" Click="zensurNeuEintragen_Click" IsEnabled="False" VerticalAlignment="Center"/>
+                            </Grid>
+                        </StackPanel>
+                    </Grid>
+                </ScrollViewer>
+            </PivotItem>
+
+            <!--Pivot item two-->
+            <PivotItem
+                x:Uid="PivotItem2"
+                Header="Detailansicht"
+                DataContext="{Binding SecondGroup}"
+                d:DataContext="{Binding Groups[1], Source={d:DesignData Source=/DataModel/SampleData.json, Type=data:SampleDataSource}}">
+
+                <ListView
+                    x:Name="faecherUebersicht"
+                    SelectionChanged="faecherUebersicht_SelectionChanged"
+                    Loaded="SecondPivot_Loaded"
+                    ContinuumNavigationTransitionInfo.ExitElementContainer="True">
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="10,0,10,20">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition Height="1"/>
+                                    <RowDefinition/>
+                                    <RowDefinition Height="1"/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="auto"/>
+                                    <ColumnDefinition Width="auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Rectangle Grid.ColumnSpan="3" Grid.RowSpan="5" Fill="#331BA1E2" Margin="-10,-5"/>
+
+                                <TextBlock FontSize="30" Text="{Binding Name}"/>
+
+                                <Rectangle Grid.ColumnSpan="3" Grid.Row="1" Fill="White"/>
+                                <TextBlock Grid.Row="2" FontSize="15" Text="{Binding Zensuren}" TextWrapping="WrapWholeWords" Margin="0,0,10,0"/>
+                                <TextBlock Grid.Column="1" Grid.Row="2" FontSize="15" FontWeight="Bold">
+                                <Run Text="Klausur: "/>
+                                <Run Text="{Binding Klausur}"/>
+                                </TextBlock>
+                                <Rectangle Grid.ColumnSpan="3" Grid.Row="3" Fill="LightGray"/>
+
+                                <TextBlock Grid.ColumnSpan="3" Grid.Row="4" FontSize="20" FontWeight="Light">
+                                <Run Text="Stand: "  FontWeight="Normal"/>
+                                <Run Text="{Binding StandNP}"/>
+                                <Run Text=" | "/>
+                                <Run Text="{Binding StandZ}"/>
+                                </TextBlock>
+                                <Rectangle Grid.ColumnSpan="3" Grid.RowSpan="5" Fill="White" Opacity="0" Margin="-10,-5" Tapped="ListViewRectangle_Tapped"/>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </PivotItem>
+        </Pivot>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:Uid="AddAppBarButton" x:Name="AddAppBarButton" Label="add" Icon="Add" Click="AddAppBarButton_Click" />
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Uid="SecondaryButton1" x:Name="SecondaryButton1" Label="secondary command 1" />
+                <AppBarButton x:Uid="SecondaryButton2" x:Name="SecondaryButton2" Label="secondary command 2" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

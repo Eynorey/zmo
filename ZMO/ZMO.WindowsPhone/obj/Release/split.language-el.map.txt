@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-el"
+"ResourceDimensions"		"language-el-gr"
+
+[Files]
+"C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\split.language-el.pri"			"resources.pri"

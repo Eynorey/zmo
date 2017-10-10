@@ -1,0 +1,131 @@
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.g.i.cs
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.g.cs
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.g.cs
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.xaml
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.xbf
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.xaml
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.xbf
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.g.i.cs
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.g.cs
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\App.xbf
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\MainPage.xbf
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\zensuren.xbf
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.xr.xml
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.exe
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.pdb
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\resources.pri
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\AppxManifest.xml
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.build.appxrecipe
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.xaml
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.xbf
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ZMO.Windows.exe
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ZMO.Windows.pdb
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\priconfig.xml
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\layout.resfiles
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\resources.resfiles
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\pri.resfiles
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\qualifiers.txt
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\adrian\skydrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\App.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\MainPage.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Settings.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\zensuren.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.xr.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.exe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.pdb
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\resources.pri
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.build.appxrecipe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ZMO.Windows.exe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ZMO.Windows.pdb
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\priconfig.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\layout.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\resources.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\pri.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\qualifiers.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Assets\santa_medium.png
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Assets\santa_medium.png
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\App.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\MainPage.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Settings.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\zensuren.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.xr.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.exe
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.pdb
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\resources.pri
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\ZMO.Windows.build.appxrecipe
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.g.i.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.g.i.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.g.i.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.xaml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.xaml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.xaml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.xaml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\App.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MainPage.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\Settings.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\zensuren.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ZMO.Windows.exe
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ZMO.Windows.pdb
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\priconfig.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\layout.resfiles
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\resources.resfiles
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\pri.resfiles
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\qualifiers.txt
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\obj\Debug\ProjectArchitectures.txt

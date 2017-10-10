@@ -1,0 +1,5 @@
+MainPackage=C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows_2.9.1.0_Bundle\ZMO.Windows_2.9.1.0_AnyCPU.appx
+SymbolPackage=C:\Users\Adrian Riedel\Desktop\ZMO.Windows_2.9.1.0_Test\ZMO.Windows_2.9.1.0_AnyCPU.appxsym
+ResourcePack=C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows_2.9.1.0_Bundle\ZMO.Windows_2.9.1.0_language-de.appx
+ResourcePack=C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows_2.9.1.0_Bundle\ZMO.Windows_2.9.1.0_scale-140.appx
+ResourcePack=C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows_2.9.1.0_Bundle\ZMO.Windows_2.9.1.0_scale-180.appx

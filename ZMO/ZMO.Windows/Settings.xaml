@@ -1,0 +1,102 @@
+﻿<SettingsFlyout x:Name="settingsFlyout"
+    x:Class="ZMO.Settings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ZMO"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    IconSource="Assets/SmallLogo.png"
+    Title="Einstellungen"
+    d:DesignWidth="346"
+    HeaderBackground="{Binding Source={StaticResource Foreground}}">
+
+    <!-- Dieser StackPanel fungiert als vertikales Layout der Inhaltsabschnitte -->
+    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+
+        <!-- Die StackPanels unten definieren individuelle Inhaltsabschnitte -->
+
+        <!-- Inhaltsabschnitt 1-->
+        <StackPanel Style="{StaticResource SettingsFlyoutSectionStyle}">
+
+            <!-- Abschnitt 1 Header -->
+            <TextBlock Style="{StaticResource TitleTextBlockStyle}" Text="Live-Tile" />
+
+            <!-- Abschnitt 1 Textkörper -->
+            <TextBlock Style="{StaticResource BodyTextBlockStyle}" Margin="0,0,0,25" TextWrapping="Wrap">
+                <Run Text="Schaltet die Live-Kachel auf dem Startmenü ein oder aus."/>
+                <LineBreak/>
+                <Run Text="Dort wird der aktuelle Durchschnitt in Notenpunkten und als Zensur angezeigt."/>
+            </TextBlock>
+
+            <ToggleSwitch x:Name="LiveTile_switch" Toggled="LiveTile_switch_Toggled" HorizontalAlignment="Center"/>
+            <TextBlock Style="{StaticResource BodyTextBlockStyle}" Text="Änderung beim nächsten App-Start wirksam" FontStyle="Italic" />
+
+        </StackPanel>
+
+        <!-- Inhaltsabschnitt 2-->
+        <StackPanel Style="{StaticResource SettingsFlyoutSectionStyle}">
+
+            <!-- Abschnitt 2 Header -->
+            <TextBlock Style="{StaticResource TitleTextBlockStyle}" Text="Farbe" x:Name="test"/>
+
+            <!-- Abschnitt 2 Textkörper -->
+            <TextBlock Style="{StaticResource BodyTextBlockStyle}" Margin="0,0,0,25" TextWrapping="Wrap" Text="Auswahl einer Akzentfarbe für die App"/>
+
+            <GridView x:Name="colorPicker" SelectionMode="None" Height="250" HorizontalAlignment="Center">
+                <GridViewItem>
+                    <Rectangle Fill="#0050EF" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#008BFF" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#647687" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#3D6E89" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#008A00" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#7ED12B" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#A4C400" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#344F1E" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#E51400" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#FA6800" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#F0A30A" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#7E5F33" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#A20025" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#D80073" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#F472D0" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+                <GridViewItem>
+                    <Rectangle Fill="#47247A" Height="50" Width="50" Tapped="colorTap"/>
+                </GridViewItem>
+            </GridView>           
+            
+        </StackPanel>
+
+        <!-- Weitere Inhaltsabschnitte nach Bedarf definieren -->
+
+    </StackPanel>
+</SettingsFlyout>

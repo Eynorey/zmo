@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADIS-PC</Machine>
+    <WindowsUser>Adrian</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0c4d2a86-951a-463d-b2a3-ff4ee585ab63</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\WP Pivot.exe">
+      <PackagePath>WP Pivot.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\PivotPage.xbf">
+      <PackagePath>PivotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\WP Pivot.xr.xml">
+      <PackagePath>WP Pivot.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

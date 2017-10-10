@@ -1,0 +1,158 @@
+﻿<Page
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI" 
+    x:Class="ZMO.zensuren"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ZMO"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,25">
+            <TextBlock Grid.Row="0" Margin="20,0,0,0" Text="Zensuren Manager Oberstufe" Style="{ThemeResource TitleTextBlockStyle}" Typography.Capitals="SmallCaps"/>
+            <Image Visibility="Collapsed" x:Name="santaHat" Source="Assets/santa_small.png" Height="25" Margin="-8,0,0,0" Tapped="santaHat_Tapped"/>
+        </StackPanel>
+        
+        <Grid x:Name="ContentRoot" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <ComboBox Margin="10,0" x:Name="fachSelector" PlaceholderText="Fach auswählen" SelectionChanged="fachSelector_SelectionChanged">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}"/>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+
+            <ScrollViewer Grid.Row="1" HorizontalScrollMode="Disabled" Margin="10,0,10,0" x:Name="scrollViewerMain">
+                <Grid x:Name="mainGrid">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="5"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="1"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    
+                    <FlyoutBase.AttachedFlyout>
+                        <Flyout x:Name="editFlyout" Closed="editFlyout_Closed">
+                            <StackPanel Margin="10" Height="190">
+                                <TextBox x:Name="editZensuren" Header="Notenpunkte" KeyUp="editZensuren_KeyUp" InputScope="Number"/>
+                                <TextBlock TextWrapping="WrapWholeWords" FontSize="{StaticResource TextStyleLargeFontSize}">
+                                    Notenpunkte bearbeiten oder hinzufügen, mit Komma trennen
+                                </TextBlock>
+                                <Button Content="Änderungen speichern" Click="Button_Click" Margin="5,0"/>
+                            </StackPanel>
+                        </Flyout>
+                    </FlyoutBase.AttachedFlyout>
+
+                    <Rectangle Grid.Row="0" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource PhoneAccentBrush}" Margin="-0,0,0,10" RadiusX="3" RadiusY="3"/>
+                    <TextBlock Grid.Row="0" Grid.Column="1" FontSize="{StaticResource TextStyleLargeFontSize}" Text="Tests" Margin="0,5,0,0" Typography.Capitals="SmallCaps" FontWeight="SemiBold"/>
+                    <TextBlock Grid.Row="0" Grid.Column="2" FontSize="{StaticResource TextStyleLargeFontSize}" x:Name="testDurchschnitt"/>
+                    <TextBlock Grid.Row="2" Grid.Column="1" FontSize="{StaticResource TextStyleMediumFontSize}" x:Name="testNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                    <Rectangle x:Name="re1" Grid.Row="0" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10" Tapped="Tests_Tapped" RadiusX="3" RadiusY="3"/>
+
+                    <Rectangle Grid.Row="3" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource PhoneAccentBrush}" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                    <TextBlock Grid.Row="3" Grid.Column="1" FontSize="{StaticResource TextStyleLargeFontSize}" Text="Stunden- und Hausarbeiten" Margin="0,5,0,0" Typography.Capitals="SmallCaps" FontWeight="SemiBold"/>
+                    <TextBlock Grid.Row="3" Grid.Column="2" FontSize="{StaticResource TextStyleLargeFontSize}" x:Name="stundenDurchschnitt" FontWeight="Bold"/>
+                    <TextBlock Grid.Row="5" Grid.Column="1" FontSize="{StaticResource TextStyleMediumFontSize}" x:Name="stundenNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                    <Rectangle x:Name="re2" Grid.Row="3" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10" Tapped="Stunden_Tapped" RadiusX="3" RadiusY="3"/>
+
+                    <Rectangle Grid.Row="6" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource PhoneAccentBrush}" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                    <TextBlock Grid.Row="6" Grid.Column="1" FontSize="{StaticResource TextStyleLargeFontSize}" Text="Mitarbeit" Margin="0,5,0,0" Typography.Capitals="SmallCaps" FontWeight="SemiBold"/>
+                    <TextBlock Grid.Row="6" Grid.Column="2" FontSize="{StaticResource TextStyleLargeFontSize}" x:Name="mitarbeitDurchschnitt" FontWeight="Bold"/>
+                    <TextBlock Grid.Row="8" Grid.Column="1" FontSize="{StaticResource TextStyleMediumFontSize}" x:Name="mitarbeitNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                    <Rectangle x:Name="re3" Grid.Row="6" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10" Tapped="Mitarbeit_Tapped" RadiusX="3" RadiusY="3"/>
+
+                    <Rectangle Grid.Row="9" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource PhoneAccentBrush}" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                    <TextBlock Grid.Row="9" Grid.Column="1" FontSize="{StaticResource TextStyleLargeFontSize}" Text="Sonstige Noten" Margin="0,5,0,0" Typography.Capitals="SmallCaps" FontWeight="SemiBold"/>
+                    <TextBlock Grid.Row="9" Grid.Column="2" FontSize="{StaticResource TextStyleLargeFontSize}" x:Name="sonstigeDurchschnitt" FontWeight="Bold"/>
+                    <TextBlock Grid.Row="11" Grid.Column="1" FontSize="{StaticResource TextStyleMediumFontSize}" x:Name="sonstigeNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                    <Rectangle x:Name="re4" Grid.Row="9" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10" Tapped="Sonstige_Tapped" RadiusX="3" RadiusY="3"/>
+
+                    <Rectangle Grid.Row="12" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="{StaticResource PhoneAccentBrush}" Margin="0,0,0,10" RadiusX="3" RadiusY="3"/>
+                    <TextBlock Grid.Row="12" Grid.Column="1" FontSize="{StaticResource TextStyleLargeFontSize}" Text="Klausur + Leistungsnachweis" Margin="0,5,0,0" Typography.Capitals="SmallCaps" FontWeight="SemiBold"/>
+                    <TextBlock Grid.Row="12" Grid.Column="2" FontSize="{StaticResource TextStyleLargeFontSize}" x:Name="klausurDurchschnitt" FontWeight="Bold"/>
+                    <TextBlock Grid.Row="14" Grid.Column="1" FontSize="{StaticResource TextStyleMediumFontSize}" x:Name="klausurNoten" Margin="0,5,0,15" TextWrapping="Wrap"/>
+                    <Rectangle x:Name="re5" Grid.Row="12" Grid.ColumnSpan="4" Grid.RowSpan="3" Fill="White" Opacity="0" Margin="0,0,0,10" Tapped="Klausur_Tapped" RadiusX="3" RadiusY="3"/>
+
+                   
+                    <Rectangle Grid.ColumnSpan="2" Grid.Row="1" Fill="White" Grid.Column="1"/>
+                    <Rectangle Grid.ColumnSpan="2" Grid.Row="4" Fill="White" Grid.Column="1"/>
+                    <Rectangle Grid.ColumnSpan="2" Grid.Row="7" Fill="White" Grid.Column="1"/>
+                    <Rectangle Grid.ColumnSpan="2" Grid.Row="10" Fill="White" Grid.Column="1"/>
+                    <Rectangle Grid.ColumnSpan="2" Grid.Row="13" Fill="White" Grid.Column="1"/>
+                    <Rectangle Grid.ColumnSpan="4" Height="2" Grid.Row="15" Fill="White"/>
+
+                    <TextBlock Grid.Column="1" Grid.Row="16" FontSize="{StaticResource TextStyleLargeFontSize}" Text="Gesamtdurchschnitt" Foreground="{StaticResource PhoneAccentBrush}" FontWeight="Bold"/>
+                    <StackPanel Grid.Column="1" Grid.Row="17" Orientation="Horizontal">
+                        <TextBlock FontSize="{StaticResource TextStyleLargeFontSize}" x:Name="durchschnittGesamtTB" />
+                        <TextBlock FontSize="{StaticResource TextStyleLargeFontSize}" Margin="30,0" Text=" | "/>
+                        <TextBlock FontSize="{StaticResource TextStyleLargeFontSize}" x:Name="durchschnittGesamtNoteTB" />
+                    </StackPanel>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+    
+    <Page.BottomAppBar>
+        <CommandBar x:Name="bottomBar" ClosedDisplayMode="Minimal">
+            <AppBarButton x:Name="deleteButton" Label="Löschen" Icon="Delete" Click="deleteButton_Click">
+                <FlyoutBase.AttachedFlyout>
+                    <Flyout>
+                        <StackPanel Margin="10" Height="130">
+                            <TextBlock FontWeight="Bold" Text="Achtung" Foreground="{StaticResource PhoneAccentBrush}" FontSize="{StaticResource TextStyleExtraLargeFontSize}"/>
+                            <TextBlock TextWrapping="WrapWholeWords" FontSize="{StaticResource TextStyleLargeFontSize}">
+                                <Run Text="Alle Zensuren des Fachs"/>
+                                <Run x:Name="fachName" FontWeight="Bold"/>
+                                <Run Text="werden gelöscht!"/>
+                            </TextBlock>
+                            <Button x:Name="deleteAllZensuren" Content="bestätigen" Click="deleteAllZensuren_Click" Margin="5,0"/>
+                        </StackPanel>
+                    </Flyout>
+                </FlyoutBase.AttachedFlyout>
+            </AppBarButton>
+
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="App bewerten" Click="rate_Click"/>
+                <AppBarButton Label="Feedback + Vorschläge" Click="suggestions_Click"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

@@ -1,0 +1,1 @@
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\ZMO.WindowsPhone.csproj;neutral

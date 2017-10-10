@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="907Eynorey.ZensurenManagerOberstufe" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US, EN-GB</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Settings.xbf" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Settings.xbf">
+				<Candidate type="Path">
+					<Value>Settings.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="zensuren.xbf" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/zensuren.xbf">
+				<Candidate type="Path">
+					<Value>zensuren.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ZMO.Windows.xr.xml" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/ZMO.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>ZMO.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="eynorey.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/eynorey.png">
+					<Candidate type="Path">
+						<Value>Assets\eynorey.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="large-live.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/large-live.png">
+					<Candidate type="Path">
+						<Value>Assets\large-live.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="santa_medium.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/santa_medium.png">
+					<Candidate type="Path">
+						<Value>Assets\santa_medium.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="small-live.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/small-live.png">
+					<Candidate type="Path">
+						<Value>Assets\small-live.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wide-live.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/wide-live.png">
+					<Candidate type="Path">
+						<Value>Assets\wide-live.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="ReadMe.txt" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Common/ReadMe.txt">
+					<Candidate type="Path">
+						<Value>Common\ReadMe.txt</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.Advertising.WinRT.UI">
+				<NamedResource name="AdSettingsFlyout.xbf" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Microsoft.Advertising.WinRT.UI/AdSettingsFlyout.xbf">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bootstrap.html" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Microsoft.Advertising.WinRT.UI/bootstrap.html">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\bootstrap.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ormma.js" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Microsoft.Advertising.WinRT.UI/ormma.js">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\ormma.js</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/Microsoft.Advertising.WinRT.UI/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftAdvertising">
+				<ResourceMapSubtree name="IntelliSense">
+					<NamedResource name="AdErrorEventArgs.xml" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/MicrosoftAdvertising/IntelliSense/AdErrorEventArgs.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\AdErrorEventArgs.xml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ErrorCode.xml" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/Files/MicrosoftAdvertising/IntelliSense/ErrorCode.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\ErrorCode.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MicrosoftAdvertising">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AdGameComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AdManagerNotInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AdMangerAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AdUnitIdAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdIsRequired" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AdUnitIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>adUnitId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AllActionsMalformed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ApplicationIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AssetNodeIsSingleEntry">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoRefreshStateAlreadySet" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/AutoRefreshStateAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh state has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/BannerInformationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdControlUninitialized" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdControlUninitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is uninitialised.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/DidNotParseToEnd">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ExtractedPropertyNotAString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/FontDoesNotSupportCharacter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/GeoDataNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IncompleteInit" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/IncompleteInit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InternalError" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InternalError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAction" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InvalidAction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid action param: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InvalidDataFormat">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InvalidJsonResponse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLocation" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InvalidLocation">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InvalidParameterMissingItemSeparator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSize" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/InvalidSize">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/JsonIntegerParseOverflow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/JsonNodeIsNotADictionary">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/JsonResponseTypeInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/JsonStringValueNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/LoadContentNotCalled">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/NonPremiumWithNoApplicationId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ObjectShouldHaveNoElements">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ParameterIsLessThanPermittedLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ParameterNullOrEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ParseStackNotEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/ParseStringNotANumber">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/RectangleHeightNotSufficient">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/RefreshWhileEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileRequestInProgress" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/RefreshWhileRequestInProgress">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh was triggered but another request is already in progress.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestData or its URL is null.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/RichMediaInfoNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/StringContainsInvalidEscapeSequence">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/TextAdTitleNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/TooManyImpressionUrls">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnableToFitText" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/UnableToFitText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to fit text in the given space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/UnicodeCharacterTruncated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownAdType" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/UnknownAdType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/UnknownJsonToken">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/ExceptionMessages/UnknownRichMediaMimeType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown rich media mime type recieved: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="UIStrings">
+				<NamedResource name="AdSettings_CommandText" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_CommandText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message1" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently opted out of personalized advertising from Microsoft. Click</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You have opted out of personalised advertising from Microsoft. Click </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha thu a' diùltadh sanasachd phearsantaichte o Microsoft an-dràsta fhèin. Briog </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message2" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson barrachd fiosrachaidh air na roghainnean.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message_Here" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message_Here">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>an-seo</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Header" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalize ads in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalise ads in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Cleachdaidh Microsoft Advertising am fiosrachadh agam ach am faigh mi sanasachd phearsantaichte san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Off" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Off">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_On" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_On">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Privacy" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Privacy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Aithris na prìobhaideachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SectionName" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SectionName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising settings</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising Settings</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Roghainnean na sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt1" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently signed out.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You are currently signed out. </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil thu clàraichte a-staigh an-dràsta fhèin. </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt2" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to enable personalized advertising in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to enable personalised advertising in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson sanasachd phearsantaichte a chur an comas san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignIn" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignIn">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign in</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-steach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignOut" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignOut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-mach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_StatusUnknown_Message" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_StatusUnknown_Message">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil fiosrachadh a' chunntais Microsoft agad ri làimh an-dràsta fhèin.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Title" uri="ms-resource://907Eynorey.ZensurenManagerOberstufe/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

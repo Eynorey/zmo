@@ -1,0 +1,188 @@
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.xr.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.build.appxrecipe
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\detailPage.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\editZen.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.xr.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.build.appxrecipe
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\detailPage.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\detailPage.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\editZen.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\editZen.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\detailPage.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\editZen.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\detailPage.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\editZen.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO - Kopie\ZMO\ZMO.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\zensuren.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.g.i.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.g.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.xaml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\zensuren.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.xr.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.build.appxrecipe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Cortana.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Assets\santa_small.png
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Assets\santa_small.png
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Cortana.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\zensuren.xbf
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.xr.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\ZMO.WindowsPhone.build.appxrecipe
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Band.dll
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Band.Phone.dll
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Band.Store.dll
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Band.Phone.pri
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Debug\Microsoft.Band.Store.pri
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.g.i.cs
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.g.cs
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.xaml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\zensuren.xbf
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.exe
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.pdb
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\en\Microsoft.Band.BandResources.resw
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ZMO.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band.pri
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\qualifiers.txt
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band.Phone.pri.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band.Store.pri.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\layout.resfiles
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\layout.resfiles.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\Resources.resfiles
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\Resources.resfiles.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\pri.resfiles
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\pri.resfiles.intermediate
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\priconfig.xml
+C:\Users\Adrian Riedel\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Debug\Microsoft.Band\priconfig.xml.intermediate

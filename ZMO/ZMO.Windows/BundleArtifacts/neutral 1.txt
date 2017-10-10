@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows_2.5.0.1_Bundle\ZMO.Windows_2.5.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\AppPackages\ZMO.Windows_2.5.0.1_Test\ZMO.Windows_2.5.0.1_AnyCPU.appxsym
+ResourcePack=C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows_2.5.0.1_Bundle\ZMO.Windows_2.5.0.1_scale-140.appx
+ResourcePack=C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.Windows\bin\Release\ZMO.Windows_2.5.0.1_Bundle\ZMO.Windows_2.5.0.1_scale-180.appx

@@ -1,0 +1,133 @@
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\App.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.xr.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.exe
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\resources.pri
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.build.appxrecipe
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ZMO.WindowsPhone.exe
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\SkyDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\zensuren.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.g.i.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.g.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.xaml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\App.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\zensuren.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.xr.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.exe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\resources.pri
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.build.appxrecipe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ZMO.WindowsPhone.exe
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ZMO.WindowsPhone.pdb
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Cortana.xml
+C:\Users\Adrian\OneDrive\Dokumente\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Assets\santa_small.png
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Assets\santa_small.png
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Cortana.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\App.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\zensuren.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.xr.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.exe
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.pdb
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\resources.pri
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\ZMO.WindowsPhone.build.appxrecipe
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.g.i.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.xaml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.xaml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\App.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\zensuren.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ZMO.WindowsPhone.exe
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ZMO.WindowsPhone.pdb
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian Riedel\Documents\Visual Studio 2013\Projects\ZMO\ZMO\ZMO.WindowsPhone\obj\Release\ProjectArchitectures.txt

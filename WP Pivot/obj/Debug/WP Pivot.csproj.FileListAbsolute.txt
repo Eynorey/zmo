@@ -1,0 +1,37 @@
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\App.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\ItemPage.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\PivotPage.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\WP Pivot.xr.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\WP Pivot.exe
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\WP Pivot.pdb
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\resources.pri
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\AppxManifest.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\bin\Debug\WP Pivot.build.appxrecipe
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\App.g.i.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\App.g.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\ItemPage.g.i.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\ItemPage.g.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\PivotPage.g.i.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\PivotPage.g.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\App.xaml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\ItemPage.xaml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\PivotPage.xaml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\App.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\ItemPage.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\PivotPage.xbf
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\WP Pivot.exe
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\WP Pivot.pdb
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\priconfig.xml
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\priconfig.xml.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\layout.resfiles
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\layout.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\resources.resfiles
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\resources.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\pri.resfiles
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\pri.resfiles.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\qualifiers.txt
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Adrian\SkyDrive\dokumente\visual studio 2013\Projects\ZMO\WP Pivot\obj\Debug\ProjectArchitectures.txt
